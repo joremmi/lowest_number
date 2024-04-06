@@ -1,4 +1,4 @@
-name: Python Application Test
+name: main
 
 on: [push]
 
